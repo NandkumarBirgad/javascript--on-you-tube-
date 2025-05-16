@@ -1,0 +1,16 @@
+//primitive
+
+//7 type:string,boolean,null,undefined,number,symbol,bigInt
+
+const score = 1000
+const logginId = false
+const outsideTemp = null
+let useremail;
+
+const  anotherId = Symbol('123')
+console.log(id === anotherId)
+
+//reference/non-primitive
+
+//arrey,object,function
+
